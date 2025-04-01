@@ -1,0 +1,27 @@
+# NAME: finance
+payload:
+  #
+  - DOMAIN-SUFFIX,ibkr.com
+  - DOMAIN-SUFFIX,ibllc.com
+  - DOMAIN-SUFFIX,interactivebrokers.ca
+  - DOMAIN-SUFFIX,interactivebrokers.co.in
+  - DOMAIN-SUFFIX,interactivebrokers.co.jp
+  - DOMAIN-SUFFIX,interactivebrokers.co.uk
+  - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,interactivebrokers.com.au
+  - DOMAIN-SUFFIX,interactivebrokers.com.hk
+  - DOMAIN-SUFFIX,interactivebrokers.com.sg
+  - DOMAIN-SUFFIX,interactivebrokers.eu
+  - DOMAIN-SUFFIX,interactivebrokers.ie
+  #
+  - DOMAIN-SUFFIX,firstrade.com
+  - DOMAIN-SUFFIX,firstrade.net
+  #
+  - DOMAIN-SUFFIX,schwab.com
+  - DOMAIN-SUFFIX,schwabcdn.com
+  - DOMAIN-SUFFIX,thinkorswim.com
+  - DOMAIN-SUFFIX,tdameritrade.com
+  #
+  - DOMAIN-SUFFIX,moomoo.com
+  - DOMAIN-SUFFIX,itiger.com
+  - DOMAIN-SUFFIX,zvsts.com
